@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsCyrillic
+
+Definition Table
+  Type NATIVE Charset "WindowsCyrillic"
+  Fields 1
+    blank Char (1) ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "10a2d7c9-c7bb-4cfa-a9b4-4138905b0f38"
+end_metadata
